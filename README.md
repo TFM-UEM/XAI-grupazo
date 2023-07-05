@@ -19,6 +19,8 @@ En este proyecto se pretende proporcionar explicabilidad a dos algoritmos de Mac
 Para ello, se aplicarán tres frameworks de Model Unboxing de XAI al modelo de supervivencia de pasajeros del conjunto de datos de Kaggle Titanic.
 - [Video demostrativo de la aplicación de la librería Captum sobre una red neuronal entrenada con el dataset de supervivencia del Titanic](https://drive.google.com/file/d/1LckwKRbvafPDMTY5vqaXdk64MOHvOFLs/view?usp=drive_link)
 
+- [Video demostrativo de la aplicación de la librería SHAP sobre una red neuronal entrenada con el dataset de supervivencia del Titanic](https://drive.google.com/file/d/1_vC7FWwVNhim7AzblKTscjECFaUcF-Ot/view?usp=drive_link)
+
 Finalmente, se evaluarán los modelos atendiendo, más que a la precisión de los mismos, a su interpretabilidad, y se compararán los resultados obtenidos por los distintos métodos y frameworks para obtener conclusiones.
 
 
